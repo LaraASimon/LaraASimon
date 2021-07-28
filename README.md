@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LaraASimon.
+- 👋 Hi, I’m @larasimon.
 - 👀 I’m interested in computational linguistics, proofreading and languages.
 - 🌱 I’m currently learning computational linguistics.
 - 💞️ I’m looking to collaborate on postagging, Python, XML, HTML, etc.
